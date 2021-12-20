@@ -17,5 +17,13 @@ https://earyant.github.io/
 
 
 
+### skill
+
+![](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange)
+
+
+
+
+
 
 
